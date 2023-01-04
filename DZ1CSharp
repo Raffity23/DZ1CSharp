@@ -1,0 +1,26 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CSLight
+{
+    class Program
+    {
+        
+        static void Main(string[] args)
+        {
+            string name = "Bob";
+            string country = "Zanzibar";
+            int age = 40;
+            char degreeOfDanger = 'A';
+            int health = 100;
+            bool alive = true;
+            float SpeedMove = 6f;
+            float velocityJump = 7f;
+            int power = 7;
+            float forceOfGravity = 14f;
+        }
+    }
+}
